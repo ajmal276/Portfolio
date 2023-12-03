@@ -99,8 +99,8 @@ html{
     display: flex;
 }
 #pic img{
-    width: 1918px;
-    height: 1918px;
+    width: 400px;
+    height: 400px;
     border-radius: 50%;
 }
 #intro{
